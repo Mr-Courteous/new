@@ -1,0 +1,97 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: black;
+}
+.header{
+    background-color: #e4f9f5;
+    text-align: center;
+    position: relative;
+    padding-top: 150px;
+
+}
+.higher-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+ 
+}
+.lower-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.middle-container{
+    text-align: center;
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.my-pic{
+    width: 110px;
+}
+.description{
+    width: 200px;
+    margin: 0 auto 0 auto;
+}
+h1{
+    font-family: 'Baloo Tammudu 2', cursive;
+    color: #66bfbf
+}
+h3, h2{
+font-family: 'Dancing Script', cursive;
+color: #66bfbf;
+}
+.skill{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+    width: 70%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-image{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+    padding-bottom: 20px;
+}
+.sit{
+    width: 35%;
+    float: right;
+    margin-left: 200px;
+}
+.skill-row{
+    margin-bottom: 50px;
+}
+.adv{
+    clear: left;
+    margin-top: 30px;
+    
+}
+.adv1{
+    clear: right;
+    margin-top:30px;
+}
+.btn{
+    background-color:#66bfbf;
+    color: white;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 4px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    height: 100px;
+    padding-top:30px;
+    margin: 0;
+}
+.footer-link{
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+    color: #11999e;
+}
+p{
+    color: #11999e;
+}
