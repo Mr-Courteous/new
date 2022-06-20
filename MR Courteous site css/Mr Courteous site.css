@@ -13,13 +13,13 @@ body{
 }
 .higher-cloud{
     position: absolute;
-    right: 700px;
+    right: 300px;
     top: 50px;
  
 }
 .lower-cloud{
     position: absolute;
-    left: 50px;
+    left: 10px;
     bottom: 300px;
 }
 .middle-container{
