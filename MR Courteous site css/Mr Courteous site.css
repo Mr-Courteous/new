@@ -1,7 +1,7 @@
 body{
     text-align: center;
     margin: 0;
-    background-color: wheat;
+    background-color: white;
     width:100%;
 }
 .header{
@@ -20,7 +20,7 @@ body{
 .lower-cloud{
     position: absolute;
     left: 10px;
-    bottom: 200px;
+    bottom: 150px;
 }
 .middle-container{
     text-align: center;
